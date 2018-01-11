@@ -30,7 +30,7 @@ So we need a rapid solution to retrieve these data model from 3rd database, and 
 #### 1.Via Composer
 run command:
 ```shell
-composer require yong/magento2_doctrine
+composer require yong/magento2_doctrine dev
 ```
 
 #### 2. Download by git
